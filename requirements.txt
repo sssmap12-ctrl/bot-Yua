@@ -1,3 +1,2 @@
-aiohttp
 yt-dlp
-ffmpeg-python
+requests
