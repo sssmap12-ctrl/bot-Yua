@@ -1,3 +1,0 @@
-aiohttp
-yt-dlp
-ffmpeg-python
